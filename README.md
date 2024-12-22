@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router Dom v6 and a solution to gracefully handle non-existent routes.  The problem arises from the lack of a default route to catch unmatched paths.  The solution implements a catch-all route to display a '404 Not Found' page when the user navigates to an invalid URL.
